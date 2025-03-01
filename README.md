@@ -1,3 +1,21 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+    <script src="./script.js"></script>
+</html>
+
+
+
+
+script.js
 let name = prompt("Adınızı girin:");
 let age = parseInt(prompt("Yaşınızı girin:"));
 
